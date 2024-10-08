@@ -1,4 +1,4 @@
 package com.example.NoteHub.Entity;
 
-public class ModelDTO {
+public class modelDTO {
 }
